@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-The goal of this project is to create a file integrity monitor from scratch in Python 
+This project aims to explore the concepts of the CIA triad by creating a file integrity monitor with Python. There will be an initial 'mold' solely using knowledge from the CS50 course, then will be gradually built upon with libraries and hash files. Ultimately, the program will read through a designated text file and check if a change has been made. Then it will provide the appropriate alert repsonse depending on whether or not the file has maintained integrity. This project delves into software development and cyber security. 
 <br />
 
 
