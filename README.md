@@ -59,6 +59,7 @@ Client IP address and default gateway will correspond with Domain Controller and
 <img src="https://github.com/thethirdbirthday/Active-Directory/blob/2e89cf54db7acecf70c92f16cfd937e15d21f40c/images/ad_usercomplete.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+<h2>Final Thoughts</h2>
 <!--
  ```diff
 - text in red
