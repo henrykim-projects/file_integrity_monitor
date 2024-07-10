@@ -18,12 +18,12 @@ A file integrity monitor (FIM) demonstrates an essential concept of Cyber Securi
 <h2>Program walk-through:</h2>
 
 <p align="center">
-First, the FIM must locate the target file. A specific file can be selected using the open() function - I have specified the text file <i>confidential.txt</i> to be opened and read: <br/>
+First, the FIM must locate the target file. A specific file can be selected using the open() function - here the text file <i>confidential.txt</i> is designated to be opened and read: <br/>
 <img src="https://github.com/thethirdbirthday/file_integrity_monitor/blob/8223776a5e71b85010cb726a90b2801d96973f98/images/fim_1.PNG" height="80%" width="80%" alt="FIM"/>
 <br />
 <br />
-Distinguish home internet and internal network:  <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/main/ad_2.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Let's confirm the information we are protecting. Opening the file reveals the sensitive information within:  <br/>
+<img src="https://github.com/thethirdbirthday/file_integrity_monitor/blob/ddcf27e9dda495fa936f78b225d3142c77a2ef81/images/fim_3.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br />
 Add Active Directory Domain Services: <br/>
