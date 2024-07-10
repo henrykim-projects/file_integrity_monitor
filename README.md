@@ -19,6 +19,7 @@ A file integrity monitor (FIM) demonstrates an essential concept of Cyber Securi
 
 <p align="center">
 First, the FIM must locate the target file. A specific file can be selected using the open() function - here the text file <i>confidential.txt</i> is designated to be opened and read: <br/>
+ 
 <img src="https://github.com/thethirdbirthday/file_integrity_monitor/blob/8223776a5e71b85010cb726a90b2801d96973f98/images/fim_1.PNG" height="80%" width="80%" alt="FIM"/>
 <br />
 <br />
