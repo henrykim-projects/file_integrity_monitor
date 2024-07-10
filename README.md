@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project aims to explore the concepts of the CIA triad by creating a file integrity monitor with Python. There will be an initial 'mold' solely using knowledge from the CS50 course, then will be gradually built upon with libraries and hash files. Ultimately, the program will read through a designated text file and check if a change has been made. Then it will provide the appropriate alert repsonse depending on whether or not the file has maintained integrity. This project delves into software development and cyber security. 
+A file integrity monitor (FIM) demonstrates an essential concept of Cyber Security, namely 'integrity' found in the CIA (Confidentiality, Integrity, Accessibility) triad. Integrity is essential principle, noting whether data stored by the user has been untouched and unaltered by an unintended party. The FIM checks if a file has been altered, and provides an alert whether the file has been breached or integrity has been maintained. Here, I have constructed a rudimentary FIM solely using Python commands. 
 <br />
 
 
@@ -10,7 +10,6 @@ This project aims to explore the concepts of the CIA triad by creating a file in
 
 - <b>Python</b>
 - <b>[CS50](https://github.com/thethirdbirthday/harvard_python)</b>
-- <b>Oracle Virtual Box</b>
 
 <h2>Environments Used </h2>
 
@@ -19,7 +18,7 @@ This project aims to explore the concepts of the CIA triad by creating a file in
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Create a Domain Controller VM installed with Server 2019: <br/>
+First, the program has to locate the file to be scanned. Python has a function that does exactly that with <i>open()</i>: <br/>
 <img src="https://github.com/thethirdbirthday/Active-Directory/blob/main/ad_1.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
