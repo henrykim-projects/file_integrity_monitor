@@ -26,15 +26,15 @@ Let's confirm the information we are protecting. Opening the file reveals the se
 <img src="https://github.com/thethirdbirthday/file_integrity_monitor/blob/ddcf27e9dda495fa936f78b225d3142c77a2ef81/images/fim_3.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br />
-Returning to the FIM, we will add a conditional where if the message is the same "There is no change" will be returned. Otherwise, we will know "There is a change!": <br/>
+Returning to the code, we will add a conditional where if the message is the same "There is no change" will be returned. Otherwise, we will know "There is a change!": <br/>
 <img src="https://github.com/thethirdbirthday/file_integrity_monitor/blob/d4e16befabb004ce9a4340fa7970d816e8bd78e1/images/fim_2.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
-Create admin account: <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/d16bfe521e26cce607b68e6115dadc69c66e12a3/images/ad_5.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+To test the FIM, running it correctly indicates that "There is no change" meaning the file has maintained integrity: <br/>
+<img src="https://github.com/thethirdbirthday/file_integrity_monitor/blob/501032971b54803e729237764b33256bcd84d113/images/fim_4.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
-Add Remote Access: <br/>
+However, in the case of a breach by a hacker, or perhaps unauthorized access by an employee who has unintentionally been given access, let's test the result when the file has been altered: <br/>
 <img src="https://github.com/thethirdbirthday/Active-Directory/blob/2e89cf54db7acecf70c92f16cfd937e15d21f40c/images/ad_NAT.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
 <br/>
