@@ -18,7 +18,7 @@ A file integrity monitor (FIM) demonstrates an essential concept of Cyber Securi
 <h2>Program walk-through:</h2>
 
 <p align="center">
-First, the program must locate the file to be scanned. Python has a function that does exactly that with <u>open()</u> - I've specified the text file <i>confidential.txt</i>: <br/>
+First, the FIM must locate the file to be scanned. A specific file can be selected using the <u>open()</u> function - I have specified the text file <i>confidential.txt</i> in the parameters: <br/>
 <img src="https://github.com/thethirdbirthday/file_integrity_monitor/blob/8223776a5e71b85010cb726a90b2801d96973f98/images/fim_1.PNG" height="80%" width="80%" alt="FIM"/>
 <br />
 <br />
