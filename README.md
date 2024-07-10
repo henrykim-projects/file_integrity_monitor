@@ -26,8 +26,8 @@ Let's confirm the information we are protecting. Opening the file reveals the se
 <img src="https://github.com/thethirdbirthday/file_integrity_monitor/blob/ddcf27e9dda495fa936f78b225d3142c77a2ef81/images/fim_3.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br />
-Add Active Directory Domain Services: <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/8cf3a9f5c735d42d45c55cfb79462702e2eed85e/ad_3.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Returning to the FIM, we will add a conditional where if the message is the same "There is no change" will be returned. Otherwise, we will know "There is a change!": <br/>
+<img src="https://github.com/thethirdbirthday/file_integrity_monitor/blob/d4e16befabb004ce9a4340fa7970d816e8bd78e1/images/fim_2.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 Create admin account: <br/>
