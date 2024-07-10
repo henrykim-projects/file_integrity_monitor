@@ -34,7 +34,7 @@ To test the FIM, running it correctly indicates that "There is no change" meanin
 <img src="https://github.com/thethirdbirthday/file_integrity_monitor/blob/501032971b54803e729237764b33256bcd84d113/images/fim_4.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
-However, in the case of a breach by a hacker, or perhaps unauthorized access by an employee who has unintentionally been given access, let's test the result when the file has been altered. Here the same text file has become literally "compromised": <br/>
+However, in the case of a breach by a hacker, or perhaps unauthorized access by an employee who has unintentionally been given permissions, let's test the result when the file has been altered. Here the same text file has become literally "compromised": <br/>
 <img src="https://github.com/thethirdbirthday/file_integrity_monitor/blob/7643b74fba1656b0e7658079d6b389def3b0ab58/images/fim_5.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
 <br/>
