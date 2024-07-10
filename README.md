@@ -39,14 +39,14 @@ However, in the case of a breach by a hacker, or perhaps unauthorized access by 
 <img src="https://github.com/thethirdbirthday/file_integrity_monitor/blob/7643b74fba1656b0e7658079d6b389def3b0ab58/images/fim_5.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
 <br/>
-The FIM now provides the alternate alert and a security response can be made according to protocol: <br/>
+The FIM now returns the alternate alert and a security response can be made according to protocol: <br/>
 <img src="https://github.com/thethirdbirthday/file_integrity_monitor/blob/99a63fe1eb2075a6290a234854bce7661b0ea235/images/fim_6.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />  
 <br />
 </p>
 
 <h2>Final Thoughts</h2>
-
+This project combined concepts from both my IT and programming studies. I was able to apply knowledge from the CS50 course, creating a program from scratch using functions inherent to Python, and the code functioned as intended. Now, it would be ineffcient to copy and paste entire text files as the baseline to be monitored every time. Professional FIM's employ a Cyber Security concept called <i>hashing</i> that involves assigning a specific sequence of numbers to each file. These sequences change to reflect changes in a file. Monitoring the hash rather than the content of the file is much more effective. Certain libraries are available in Python that are helpful to creating accurate FIM's. However, as this project was intended to solely use current knowledge and explore a fundamental Cyber Security principle: I look forward to continuing to build upon this project as I delve further into field.
 
 <!--
  ```diff
