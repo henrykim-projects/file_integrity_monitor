@@ -9,7 +9,8 @@ A file integrity monitor (FIM) demonstrates an essential concept of Cyber Securi
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b>
-- <b>[CS50](https://github.com/thethirdbirthday/harvard_python)</b>
+- <b>CIA Triad</b>
+- <b>Monitoring and Compliance</b>
 
 <h2>Environments Used </h2>
 
