@@ -47,7 +47,7 @@ The FIM now returns the alternate alert and a security response can be made acco
 </p>
 
 <h2>Final Thoughts</h2>
-This project combined concepts from both IT security and programming. I was able to apply knowledge from the CS50 course, creating a program from scratch using functions inherent to Python, and the code functioned as intended. Professional FIM's employ <i>hashing</i> that involves assigning a specific sequence of numbers to each file. These sequences change to reflect changes in files. Monitoring the hash rather than the content of the file is much more effective. Certain libraries are available in Python that are helpful to creating accurate FIM's. Further improvements to this program will involve employing such libraries and concepts.
+This project combined concepts from both IT security and programming. I was able to apply knowledge from the CS50 course, creating a program from scratch using functions inherent to Python, and the code functioned as intended. Professional FIM's employ <i>hashing</i> that involves assigning a specific sequence of numbers to each file. These sequences change to reflect changes in files. Monitoring the hash rather than the content of the file is much more effective. Certain libraries are available in Python that are helpful to creating accurate FIM's. Further improvements to this program will involve applying these assets.
 
 <!--
  ```diff
