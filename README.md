@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-A file integrity monitor (FIM) demonstrates an essential concept of Cyber Security, namely 'integrity' found in the CIA (Confidentiality, Integrity, Accessibility) triad. Integrity is essential principle, noting whether data stored by the user has been untouched and unaltered by an unintended party. The FIM checks if a file has been altered, and provides an alert whether the file has been breached or integrity has been maintained. Here, I have constructed a FIM solely using Python commands. 
+A file integrity monitor (FIM) demonstrates an essential concept of Cyber Security, namely 'integrity' found in the CIA (Confidentiality, Integrity, Accessibility) triad. Integrity is essential principle, noting whether data stored by the user has been untouched and unaltered by an unintended party. The FIM checks if a file has been altered, and provides an alert whether the file has been breached or integrity has been maintained. Here, I have constructed a FIM solely using Python commands learned from the Harvardx CS50 course. 
 <br />
 
 
@@ -47,7 +47,7 @@ The FIM now returns the alternate alert and a security response can be made acco
 </p>
 
 <h2>Final Thoughts</h2>
-This project combined concepts from both IT security and programming. I was able to apply knowledge from the CS50 course, creating a program from scratch using functions inherent to Python, and the code functioned as intended. Professional FIM's employ <i>hashing</i> that involves assigning a specific sequence of numbers to each file. These sequences change to reflect changes in files. Monitoring the hash rather than the content of the file is much more effective. Certain libraries are available in Python that are helpful to creating accurate FIM's. Further improvements to this program will involve applying these assets.
+This project combined concepts from both IT security and programming. The CS50 course's extensive coverage allowed me to create a program from scratch using functions inherent to Python, and the code functioned as intended. Professional FIM's employ <i>hashing</i> that involves assigning a specific sequence of numbers to each file. These sequences change to reflect changes in files. Monitoring the hash rather than the content of the file is much more effective. Certain libraries are available in Python that are helpful to creating accurate FIM's. Further improvements to this program will involve applying these assets.
 
 <!--
  ```diff
